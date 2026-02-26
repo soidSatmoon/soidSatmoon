@@ -1,5 +1,5 @@
 ## Hi there 👋
-div align="center">
+<div align="center">
   <h1>QaidVoid</h1>
   <p><em>Software Engineer • Rust Enthusiast</em></p>
   <p>
